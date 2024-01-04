@@ -110,7 +110,7 @@ class PageThree extends StatelessWidget {
   Widget build(BuildContext context) {
     return Center(
       child: BabylonJSViewer(
-        src: 'assets/3d/bahan.glb',
+        src: 'assets/3d/3_bedroom_classic_american_home.glb',
       ),
     );
   }

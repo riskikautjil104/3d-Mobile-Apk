@@ -62,6 +62,7 @@ flutter:
     - assets/3d/bahan.glb
     - assets/3d/vila_maria.glb
     - assets/3d/3d_masjed_modeling.glb
+    - assets/3d/3_bedroom_classic_american_home.glb
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
